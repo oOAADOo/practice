@@ -21,9 +21,7 @@
 
             <div class="data">
                 <div class="myImg">
-                    <?php
-                    echo '<img src="/img/php.jpg">';
-                    ?>
+                    <?php  echo '<img src="/img/php.jpg">'; ?>                    
                 </div>
 
                 <div class="fullname">
@@ -43,10 +41,8 @@
             <div class="knowledge">
                                    
                     <?php  include 'knowledge.inc.php'; ?>
-                    <?php
-                    echo $a, ' ', $b, ' ', $c;
-                    ?> <br>
-                    
+                    <?php   echo $a, ' ', $b, ' ', $c; ?> <br>
+                                       
                     <?php
                         $a = 10;
                         $b = 20;
