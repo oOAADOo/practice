@@ -1,18 +1,13 @@
-
-
-<?php 
- $p = 'Приветствую Вас на моей страничке!';
+<?php
+$p = 'Всем привет, тут моя страничка';
 ?>
 
-<?php 
- $name = 'Александр';
- $surname = 'Иванов';
- $city = 'Москва';
- $age = 28;
+<?php $name = 'AAD';
+      $surname = 'Need to have surname?';
+      $city = '???';
+      $age = 20;
 ?>
-
 
 <?php
 include 'main.php';
 ?>
-

@@ -1,3 +1,3 @@
-<div class="footer">
-            <h2>Мы изучили основы PHP!</h2>
-        </div>
+<div class = "footer">
+    <h2>Изучил основы PHP</h2>
+</div>

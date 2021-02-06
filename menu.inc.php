@@ -1,9 +1,14 @@
-            <nav>
-                <ul>
-                    <li><a href="#"> About my studies </a></li>
-                    <li><a href="#"> My portfolio </a></li>
-                    <li><a href="#"> My articles </a></li>
-                    <li><a href="#"> Links </a></li>
-                    <li><a href="#"> Contacts </a></li>
-                </ul>    
-            </nav>
+    <nav>
+	    <ul>
+	        <li><a href="#">About something</a></li>
+            <hr>
+	        <li><a href="#">My portfolio</a></li>
+            <hr>
+	        <li><a href="#">My article</a></li>
+            <hr>
+	        <li><a href="#">Links</a></li>
+            <hr>
+	        <li><a href="#">Contacts</a></li>
+            <hr>
+            </ul>
+    </nav>
